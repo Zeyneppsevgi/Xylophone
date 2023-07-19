@@ -25,6 +25,7 @@ You will be making your first musical instrument! Music apps are so popular on t
 * Basic debugging.
 
 * "It is a kalimba application, and when each color block is pressed, it produces different sounds."
+  ![Screenshot](https://cdn.discordapp.com/attachments/800783429905940482/1131181788597858405/Simulator_Screenshot_-_iPhone_14_-_2023-07-19_at_14.00.09.png)
 
 ## Replacement Code
 
