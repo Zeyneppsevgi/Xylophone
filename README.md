@@ -24,6 +24,8 @@ You will be making your first musical instrument! Music apps are so popular on t
 * Code refactoring.
 * Basic debugging.
 
+* "It is a kalimba application, and when each color block is pressed, it produces different sounds."
+
 ## Replacement Code
 
 ```
@@ -56,4 +58,7 @@ class ViewController: UIViewController {
 >This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
 ![End Banner](Documentation/readme-end-banner.png)
+
+
+
 
